@@ -1,7 +1,7 @@
 # 42sh EPITECH
 
 Creating a shell like tcsh
-Project at 5: <a href="https://github.com/Eydou">Edouard Touch</a>, <a href="https://github.com/LopesAlexis">Alexis Lopes</a>, <a href="https://github.com/Sharkigamers">Gabriel Danjon</a>, <a href="https://github.com/Manub123">Emmanuel Blineau</a>
+Project at 5: <a href="https://github.com/Manub123">Emmanuel Blineau (Base de minishell2)</a>, <a href="https://github.com/Sharkigamers">Gabriel Danjon (Chef de Projet)</a>, <a href="https://github.com/LopesAlexis">Alexis Lopes</a>, (<a href="https://github.com/Eydou">Edouard Touch</a>)
 
 Fonctional control :
 
